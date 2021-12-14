@@ -1,5 +1,5 @@
-# Strength of materials: calculation for statically definable beams
-# Сопромат: расчет для статически определимых балок
+# Сonstruction mechanics: calculation for statically definable beams
+# Строительная механика: расчет для статически определимых балок
 
 **Ввод данных производится через input() (Где требуется ввести несколько значений, значения вводятся через пробел)**<br>
 **Вывод данных через print()**<br><br>
